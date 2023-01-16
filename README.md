@@ -1,1 +1,1 @@
-![example event parameter](https://github.com/SlashDimka/hexlet-my-first-workflow/blob/master/.github/workflows/hello-world.yml)
+![example event parameter](https://github.com/SlashDimka/hexlet-my-first-workflow/blob/master/.github/workflows/hello-world.yml/badge.svg?event=push)
